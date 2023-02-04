@@ -1,0 +1,18 @@
+KeyWord-Analysis-korea/data_in/data_configs.json
+KeyWord-Analysis-korea/data_in/ratings.txt
+KeyWord-Analysis-korea/data_in/ratings_test.txt
+KeyWord-Analysis-korea/data_in/ratings_train.txt
+Text similarity/.ipynb_checkpoints/Text silmilarity(Quora Question Pairs), EDA, prerprocessing, XGBoost-checkpoint.ipynb
+Text similarity/.ipynb_checkpoints/Text silmilarity(Quora Question Pairs)-checkpoint.ipynb
+Text similarity/.ipynb_checkpoints/Text similarity(CNN)-checkpoint.ipynb
+Text similarity/data_in/data_configs.npy
+Text similarity/data_in/label_train.npy
+Text similarity/data_in/q1_train.npy
+Text similarity/data_in/q2_train.npy
+Text similarity/data_in/sample_submission.csv
+Text similarity/data_in/test.csv
+Text similarity/data_in/test_id.npy
+Text similarity/data_in/test_q1.npy
+Text similarity/data_in/test_q2.npy
+Text similarity/data_in/train.csv
+Text similarity/data_out/simple_xgb.csv
